@@ -1,0 +1,6 @@
+C:\Users\amer\source\repos\zavrsna\zavrsna.dal\bin\Debug\netstandard2.0\zavrsna.dal.deps.json
+C:\Users\amer\source\repos\zavrsna\zavrsna.dal\bin\Debug\netstandard2.0\zavrsna.dal.dll
+C:\Users\amer\source\repos\zavrsna\zavrsna.dal\obj\Debug\netstandard2.0\zavrsna.dal.csprojAssemblyReference.cache
+C:\Users\amer\source\repos\zavrsna\zavrsna.dal\obj\Debug\netstandard2.0\zavrsna.dal.AssemblyInfoInputs.cache
+C:\Users\amer\source\repos\zavrsna\zavrsna.dal\obj\Debug\netstandard2.0\zavrsna.dal.AssemblyInfo.cs
+C:\Users\amer\source\repos\zavrsna\zavrsna.dal\obj\Debug\netstandard2.0\zavrsna.dal.csproj.CoreCompileInputs.cache
